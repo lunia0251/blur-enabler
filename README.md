@@ -8,6 +8,34 @@ and Launcher3 do with those features enabled.
 Tested on a Pixel 7 (`panther`) running stock Android 17
 (`CP3A.261005.002.A1`) with Vector (LSPosed) on ReZygisk and KernelSU-Next.
 
+## Preview
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/lockscreen.webp" width="240" alt="Lockscreen with blurred lock icon, shortcuts and notification"></td>
+    <td align="center"><img src="docs/volume-dialog.webp" width="240" alt="Blurred volume dialog"></td>
+    <td align="center"><img src="docs/volume-panel.webp" width="240" alt="Blurred volume panel"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Lockscreen</b></td>
+    <td align="center"><b>Volume dialog</b></td>
+    <td align="center"><b>Volume panel</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="docs/power-menu.webp" width="240" alt="Power menu blurred down to the navigation bar"></td>
+    <td align="center"><img src="docs/workspace-menu.webp" width="240" alt="Blurred Pixel Launcher workspace menu"></td>
+    <td align="center"><img src="docs/launcher-menu.webp" width="240" alt="Pixel Launcher workspace menu opening with blur"></td>
+  </tr>
+  <tr>
+    <td align="center"><b>Power menu</b></td>
+    <td align="center"><b>Launcher menu</b></td>
+    <td align="center"><b>Launcher menu (animated)</b></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="3"><img src="docs/app-launch-and-home.webp" width="240" alt="App launch blur and swipe-to-home blur"><br><b>App launch and swipe-to-home blur</b></td>
+  </tr>
+</table>
+
 ## What it enables
 
 | Feature | Gate on stock | What the module does |
