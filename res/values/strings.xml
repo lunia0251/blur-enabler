@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Blur Enabler</string>
+    <string name="description">Restores the blur Google disables on some Pixels: volume, power menu, launcher, app launch, swipe home, lockscreen and notifications</string>
+
+    <string-array name="xposed_scope">
+        <item>com.android.systemui</item>
+        <item>com.google.android.apps.nexuslauncher</item>
+    </string-array>
+</resources>
